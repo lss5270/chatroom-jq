@@ -61,4 +61,3 @@ io.on('connection', function (socket) {
 
 console.log('app listen at'+PORT);
 
-// 参考链接：https://segmentfault.com/a/1190000011538416
