@@ -20,7 +20,7 @@ h1{position: fixed; z-index:20; width: 100%; height:50px; line-height:50px; font
 .login-con button{width:60%;display:block; margin:0 auto; height: 40px; line-height:40px; border:none; background:#459d36; color:#fff; border-radius:5px;}
 
 /*聊天界面*/
-.chat-wrap{width: 100%; height: 100%;overflow-y:scroll; background:#e7e7e7; text-align:center;}
+.chat-wrap{width: 100%; height: 100%;overflow-y:auto; background:#e7e7e7; text-align:center;}
 .chat-con{padding: 50px 0 70px; background:#e7e7e7;}
 .chat-con p{display:inline-block; padding:5px 10px; background:#999;border-radius:5px; color:#fff; margin:5px 0;}
 .bottom{position:fixed;bottom:0; left: 0; width:100%; height: 50px; background: #fff;}
